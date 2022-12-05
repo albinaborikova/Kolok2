@@ -1,0 +1,4 @@
+Borikova Albina 7 group
+Task: A file contains information about toys: 
+the name, cost and age limits of the children. Using the Strategy pattern, 
+build toy lists using the stream api and without stream api.
